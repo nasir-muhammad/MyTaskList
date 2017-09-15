@@ -1,0 +1,1 @@
+export let shopping_list:Array<{name:string,amount:number}>=new Array();
